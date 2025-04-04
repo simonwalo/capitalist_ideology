@@ -1,6 +1,6 @@
-The Meaning of Work
+Measuring Historical Changes in Capitalist Ideology with Word Embeddings
 =================
-Code associated with my paper on the Meaning of Work. Preprint available here: https://osf.io/preprints/socarxiv/pxj7m/
+Code associated with my paper on capitalist ideology. Preprint available here: https://osf.io/preprints/socarxiv/pxj7m_v1
 
 ## Instructions
 <i>Load data</i>
